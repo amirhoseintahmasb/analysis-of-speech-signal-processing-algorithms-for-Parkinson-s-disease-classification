@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 import xgboost as xgb
 
 #'data/pd_speech_features.txt'
-df = pd.read_csv('./Data/pd_speech_features.txt')
+df = pd.read_csv('./pd_speech_features.txt')
 
 
 # Correlation matrix
